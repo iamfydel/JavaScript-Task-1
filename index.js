@@ -1,7 +1,7 @@
 let name = 'Hezekiah Feyisayo';
-console.log(name);
-
 let courses = ['HTML', 'CSS', 'JavaScript'];
+
+console.log(name);
 console.log(courses);
 
 //Display of all odd number from 1-200
